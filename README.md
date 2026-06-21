@@ -14,9 +14,6 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 leetcode-solutions/
 │
 ├── solutions/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
 │
 └── README.md
 ```
@@ -27,7 +24,7 @@ leetcode-solutions/
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1 | Two Sum | Easy | [Link](./solutions/Easy/0001-Two-Sum.java) |
+| 1 | Two Sum | Easy | [Link](solutions/0001-two-sum) |
 
 > This table will be updated as I solve more problems.
 
